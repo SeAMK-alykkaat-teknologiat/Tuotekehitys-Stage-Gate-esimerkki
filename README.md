@@ -14,7 +14,7 @@ Stage-Gate esimerkkisivusto on julkaistu Kasvua tuotekehityksellä Etelä-Pohjan
 [Kasvua tuotekehityksellä Etelä-Pohjanmaan valmistavan teollisuuden pk-yrityksissä -hankkeen nettisivut] https://projektit.seamk.fi/alykkaat-teknologiat/kasvua-tuotekehityksella-valmistavan-teollisuuden-pk-yrityksissa/
 
 # Julkaisun kuvaus
-[Stage-gate, tuotekehityksen viitekehys] (/content/stage-gate tuotekehityksen viitekehys.pdf)
+[Stage-gate, tuotekehityksen viitekehys](/content/stage-gate-tuotekehityksen-viitekehys.pdf)
 
 # Tavoitteet (hankejulkaisu)
 Kuvaus tavoitteesta, jos julkaisussa on tarvetta määrittää tavoite
