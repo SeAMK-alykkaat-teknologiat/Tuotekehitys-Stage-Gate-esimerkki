@@ -15,7 +15,7 @@ Stage-Gate esimerkkisivusto on julkaistu Kasvua tuotekehityksellä Etelä-Pohjan
 Lisätietoa hankkeesta:
 [Kasvua tuotekehityksellä Etelä-Pohjanmaan valmistavan teollisuuden pk-yrityksissä -hankkeen nettisivut](https://projektit.seamk.fi/alykkaat-teknologiat/kasvua-tuotekehityksella-valmistavan-teollisuuden-pk-yrityksissa/)
 
-# Julkaisun kuvaus
+# Kuvaus
 Stage-Gate on uustuotekehityksessä yleisesti käytetty viitekehys, joka jakaa tuotekehitysprosessin vaiheisiin ja portteihin. Porttien tehtävä on varmistaa, että määritellyt tehtävät ovat edellisen vaiheen aikana tehty. Tämän lisäksi portit toimivat myös välietappeina joissa arvioidaan onko projektia syytä jatkaa eteenpäin. 
 
 Stage-Gate viitekehyksen kuvaus pdf.formaatissa
@@ -23,13 +23,13 @@ Stage-Gate viitekehyksen kuvaus pdf.formaatissa
 Youtube-video Stage-Gate viitekehyksestä.
 [Stage-gate, tuotekehityksen viitekehys](https://www.youtube.com/watch?v=UrYm6cSArHI)
 
-# Tavoitteet (hankejulkaisu)
+# Tavoitteet (esim. hankejulkaisussa)
 Kuvaus tavoitteesta, jos julkaisussa on tarvetta määrittää tavoite
 
-# Toimenpiteet (hankejulkaisu)
+# Toimenpiteet (esim. hankejulkaisussa)
 Julkaisun tavoitteeseen liittyvät toimenpiteet
 
-# Asennus (koodin julkaisussa)
+# Asennus (esim. koodin julkaisussa)
 Käytä asennusohjeessa koodinupotuslaatikkoa selventämään komentoriville kirjoitettavia komentoja
 Esim:
 ~~~
@@ -44,9 +44,9 @@ def gcd_iter(u, v):
         u, v = v, u % v
     return abs(u)
 ~~~
-# Vaatimukset (koodin julkaisussa)
-# Käyttö/käynnistys (koodin julkaisussa)
-# Tulokset (hankejulkaisu)
+# Vaatimukset (esim. koodin julkaisussa)
+# Käyttö/käynnistys (esim. koodin julkaisussa)
+# Tulokset (esim. hankejulkaisussa)
 # Tekijä
 
 
