@@ -3,7 +3,10 @@
 ![](images/testi-logo.png)
 
 # Teknologiapilotti
+
+
 Linkki pilotin julkaisuun, jos sellainen löytyy.
+
 
 # Hanketiedot
 Stage-Gate esimerkkisivusto on julkaistu Kasvua tuotekehityksellä Etelä-Pohjanmaan valmistavan teollisuuden pk-yrityksissä -hankkeessa.
@@ -16,6 +19,10 @@ Lisätietoa hankkeesta:
 [Kasvua tuotekehityksellä Etelä-Pohjanmaan valmistavan teollisuuden pk-yrityksissä -hankkeen nettisivut](https://projektit.seamk.fi/alykkaat-teknologiat/kasvua-tuotekehityksella-valmistavan-teollisuuden-pk-yrityksissa/)
 
 # Kuvaus
+
+## Stage-Gate tuotekehityksen viitekehys
+![](images/stage-gate-process-testi.png)
+
 Stage-Gate on uustuotekehityksessä yleisesti käytetty viitekehys, joka jakaa tuotekehitysprosessin vaiheisiin ja portteihin. Porttien tehtävä on varmistaa, että määritellyt tehtävät ovat edellisen vaiheen aikana tehty. Tämän lisäksi portit toimivat myös välietappeina joissa arvioidaan onko projektia syytä jatkaa eteenpäin. 
 
 Stage-Gate viitekehyksen kuvaus pdf.formaatissa
@@ -30,7 +37,7 @@ Kuvaus tavoitteesta, jos julkaisussa on tarvetta määrittää tavoite
 Julkaisun tavoitteeseen liittyvät toimenpiteet
 
 # Asennus (esim. koodin julkaisussa)
-Käytä asennusohjeessa koodinupotuslaatikkoa selventämään komentoriville kirjoitettavia komentoja
+Käytä asennusohjeessa koodinupotuslaatikkoa selventämään komentoriville kirjoitettavia komentoja.
 Esim:
 ~~~
 npx create-react-app my-app
