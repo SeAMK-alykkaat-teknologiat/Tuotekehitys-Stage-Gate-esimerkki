@@ -31,6 +31,9 @@ Stage-Gate viitekehyksen kuvaus
 
 [Stage-gate, tuotekehityksen viitekehys -Youtube-video](https://www.youtube.com/watch?v=UrYm6cSArHI)
 
+| Stage-gate tuotekehityksen viitekehys -pdf-formaatissa | linkki |
+| Stage-gate tuotekehityksen viitekehys -Youtube-video | linkki |
+
 # Tavoitteet (esim. hankejulkaisussa)
 Kuvaus tavoitteesta, jos julkaisussa on tarvetta määrittää tavoite
 
