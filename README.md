@@ -90,7 +90,7 @@ Hankkeen tuloksena syntyy:
 - Koko ekosysteemin uusi tapa toimia ja jakaa osaamistaan
 
 # Tekijät
-
+- Martti Hämäläinen
 
 
 
