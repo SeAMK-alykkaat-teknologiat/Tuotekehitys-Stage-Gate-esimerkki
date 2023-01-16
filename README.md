@@ -79,7 +79,7 @@ def gcd_iter(u, v):
 # Vaatimukset (esim. koodin julkaisussa)
 # Käyttö/käynnistys (esim. koodin julkaisussa)
 Tähän kuinka ohjelmaa käytetään/käynnistetään. Esim:
-~~~~javascript
+~~~~
  run npm start in the project folder and open http://localhost:3000 in the browser
 ~~~~
 
