@@ -1,6 +1,24 @@
 # Stage-Gate tuotekehityksen viitekehys 
 (HUOM! Tämä on esimerkki GitHubin testausta varten ja tarkoitus herättää ajatuksia siitä mitä GitHubissa julkaistava materiaali tulisi sisältää. Korjausehdotuksia ja kehitysajatuksia toivotaan)
+
 ![](images/testi-logo.png)
+
+# Sisällysluettelo
+- [Stage-Gate tuotekehityksen viitekehys](#stage-gate-tuotekehityksen-viitekehys)
+- [Sisällysluettelo](#sisällysluettelo)
+- [Teknologiapilotti](#teknologiapilotti)
+- [Hanketiedot](#hanketiedot)
+- [Kuvaus](#kuvaus)
+  - [Stage-Gate tuotekehityksen viitekehys](#stage-gate-tuotekehityksen-viitekehys-1)
+  - [Stage-Gate viitekehyksen kuvaus](#stage-gate-viitekehyksen-kuvaus)
+- [Tavoitteet (esim. hankejulkaisussa)](#tavoitteet-esim-hankejulkaisussa)
+- [Toimenpiteet (esim. hankejulkaisussa)](#toimenpiteet-esim-hankejulkaisussa)
+- [Asennus (esim. koodin julkaisussa)](#asennus-esim-koodin-julkaisussa)
+- [Vaatimukset (esim. koodin julkaisussa)](#vaatimukset-esim-koodin-julkaisussa)
+- [Käyttö/käynnistys (esim. koodin julkaisussa)](#käyttökäynnistys-esim-koodin-julkaisussa)
+- [Tulokset (esim. hankejulkaisussa)](#tulokset-esim-hankejulkaisussa)
+- [Tekijä](#tekijä)
+
 
 # Teknologiapilotti
 
