@@ -30,7 +30,7 @@ Stage-Gate on uustuotekehityksessä yleisesti käytetty viitekehys, joka jakaa t
 |Nimi|Linkki|
 |---|---|
 | Stage-gate tuotekehityksen viitekehys -pdf-formaatissa |[![Stage-Gate-viitekehys](images/PDF_32.png)](/content/stage-gate-tuotekehityksen-viitekehys.pdf) |
-| Stage-gate tuotekehityksen viitekehys -Youtube-video |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UrYm6cSArHI/0.jpg)](http://www.youtube.com/watch?v=UrYm6cSArHI)|
+| Stage-gate tuotekehityksen viitekehys -Youtube-video |[![Stage-Gate-viitekehys](/images/stage-gate-malli-testi.PNG)](http://www.youtube.com/watch?v=UrYm6cSArHI)|
 
 
 
