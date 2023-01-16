@@ -22,7 +22,6 @@
 
 # Teknologiapilotti
 
-
 Linkki pilotin julkaisuun, jos sellainen löytyy.
 
 
@@ -40,7 +39,7 @@ Lisätietoa hankkeesta:
 # Kuvaus
 
 ## Stage-Gate tuotekehityksen viitekehys
-Esim:
+Esim.
 ![](images/stage-gate-process-testi.png)
 
 Stage-Gate on uustuotekehityksessä yleisesti käytetty viitekehys, joka jakaa tuotekehitysprosessin vaiheisiin ja portteihin. Porttien tehtävä on varmistaa, että määritellyt tehtävät ovat edellisen vaiheen aikana tehty. Tämän lisäksi portit toimivat myös välietappeina joissa arvioidaan onko projektia syytä jatkaa eteenpäin. 
@@ -84,7 +83,7 @@ Tähän kuinka ohjelmaa käytetään/käynnistetään. Esim:
 
 # Tulokset (esim. hankejulkaisussa)
 Esim:
-
+Hankkeen tuloksena syntyy:
 - Alueen valmistavan teollisuuden pk-yrityksen henkilöstölle soveltuva tuotekehityksen malli
 - Jatkuvan oppimisen alusta oppimateriaaleineen
 - Tapauskuvauksia alueen valmistavan teollisuuden pk-yrityksistä
