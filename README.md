@@ -17,7 +17,7 @@
 - [Vaatimukset (esim. koodin julkaisussa)](#vaatimukset-esim-koodin-julkaisussa)
 - [Käyttö/käynnistys (esim. koodin julkaisussa)](#käyttökäynnistys-esim-koodin-julkaisussa)
 - [Tulokset (esim. hankejulkaisussa)](#tulokset-esim-hankejulkaisussa)
-- [Tekijä](#tekijä)
+- [Tekijät](#tekijät)
 
 
 # Teknologiapilotti
@@ -27,6 +27,7 @@ Linkki pilotin julkaisuun, jos sellainen löytyy.
 
 
 # Hanketiedot
+Esim.
 Stage-Gate esimerkkisivusto on julkaistu Kasvua tuotekehityksellä Etelä-Pohjanmaan valmistavan teollisuuden pk-yrityksissä -hankkeessa.
 
 - Hankkeen nimi: Kasvua tuotekehityksellä Etelä-Pohjanmaan valmistavan teollisuuden pk-yrityksissä
@@ -39,6 +40,7 @@ Lisätietoa hankkeesta:
 # Kuvaus
 
 ## Stage-Gate tuotekehityksen viitekehys
+Esim:
 ![](images/stage-gate-process-testi.png)
 
 Stage-Gate on uustuotekehityksessä yleisesti käytetty viitekehys, joka jakaa tuotekehitysprosessin vaiheisiin ja portteihin. Porttien tehtävä on varmistaa, että määritellyt tehtävät ovat edellisen vaiheen aikana tehty. Tämän lisäksi portit toimivat myös välietappeina joissa arvioidaan onko projektia syytä jatkaa eteenpäin. 
@@ -75,8 +77,20 @@ def gcd_iter(u, v):
 ~~~
 # Vaatimukset (esim. koodin julkaisussa)
 # Käyttö/käynnistys (esim. koodin julkaisussa)
+Tähän kuinka ohjelmaa käytetään/käynnistetään. Esim:
+~~~~javascript
+ run npm start in the project folder and open http://localhost:3000 in the browser
+~~~~
+
 # Tulokset (esim. hankejulkaisussa)
-# Tekijä
+Esim:
+
+- Alueen valmistavan teollisuuden pk-yrityksen henkilöstölle soveltuva tuotekehityksen malli
+- Jatkuvan oppimisen alusta oppimateriaaleineen
+- Tapauskuvauksia alueen valmistavan teollisuuden pk-yrityksistä
+- Koko ekosysteemin uusi tapa toimia ja jakaa osaamistaan
+
+# Tekijät
 
 
 
