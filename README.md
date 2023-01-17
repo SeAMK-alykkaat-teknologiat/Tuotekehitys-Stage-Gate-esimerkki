@@ -77,6 +77,8 @@ def gcd_iter(u, v):
         u, v = v, u % v
     return abs(u)
 ~~~
+
+Huom! Koodiesimerkki Rosetta Code -sivustolta. [Rosetta code](https://rosettacode.org/wiki/Rosetta_Code)
 # Vaatimukset (esim. koodin julkaisussa)
 # Käyttö/käynnistys (esim. koodin julkaisussa)
 Tähän kuinka ohjelmaa käytetään/käynnistetään. Esim:
@@ -90,6 +92,7 @@ ja avaa selaimessa
 http://localhost:3000
 ~~~~
 
+Huom! Koodiesimerkit React-tutorialista. [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
 # Tulokset (esim. hankejulkaisussa)
 Esim:
