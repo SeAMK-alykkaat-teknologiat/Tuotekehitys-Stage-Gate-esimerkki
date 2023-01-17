@@ -17,6 +17,7 @@
 - [Vaatimukset (esim. koodin julkaisussa)](#vaatimukset-esim-koodin-julkaisussa)
 - [Käyttö/käynnistys (esim. koodin julkaisussa)](#käyttökäynnistys-esim-koodin-julkaisussa)
 - [Tulokset (esim. hankejulkaisussa)](#tulokset-esim-hankejulkaisussa)
+- [Lisenssi](#lisenssi)
 - [Tekijät](#tekijät)
 
 
@@ -90,6 +91,9 @@ Hankkeen tuloksena syntyy:
 - Jatkuvan oppimisen alusta oppimateriaaleineen
 - Tapauskuvauksia alueen valmistavan teollisuuden pk-yrityksistä
 - Koko ekosysteemin uusi tapa toimia ja jakaa osaamistaan
+  
+# Lisenssi
+[![Lisenssi: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # Tekijät
 - Martti Hämäläinen
