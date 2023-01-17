@@ -71,14 +71,13 @@ npx create-react-app my-app
 
 Koodin julkaisussa kirjoita ohjelmointikielen nimi (esim. ~~ ~~python), jolloin saat värit selventämään koodia.
 ~~~python
-# Esimerkkikoodi Pythonilla
-def gcd_iter(u, v):
-    while v:
-        u, v = v, u % v
-    return abs(u)
+def add(a, b):
+    """
+    This function returns the sum of given numbers
+    """
+    return a + b
 ~~~
 
-Huom! Koodiesimerkki Rosetta Code -sivustolta. [Rosetta code](https://rosettacode.org/wiki/Rosetta_Code)
 # Vaatimukset (esim. koodin julkaisussa)
 # Käyttö/käynnistys (esim. koodin julkaisussa)
 Tähän kuinka ohjelmaa käytetään/käynnistetään. Esim:
