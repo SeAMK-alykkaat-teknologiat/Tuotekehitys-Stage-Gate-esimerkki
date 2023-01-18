@@ -6,7 +6,7 @@
 Merkittävät muutokset julkaisuun.
 |pvm|Nimi|Tekijä|
 |---|---|---|
-|18.1.2023|Martti Hämäläinen|Lisätty julkaisun historiatiedot|
+|18.1.2023|Martti Hämäläinen|Lisätty matemaattisten kaavojen esittäminen|
 
 # Sisällysluettelo
 - [Stage-Gate tuotekehityksen viitekehys](#stage-gate-tuotekehityksen-viitekehys)
