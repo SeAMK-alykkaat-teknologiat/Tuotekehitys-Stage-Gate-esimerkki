@@ -64,7 +64,7 @@ Ohessa linkki yhteistyörobotiikan koneturvallisuusnäkökulmiin, joita VTT on t
 
 ## Matemaattisten kaavojen esittäminen
 Matemaattiset kaavat voidaan esittää $ ja $$-merkeillä erotellulla LaTeX-syntaksilla, esim.
-**Poisson-jakauma** voidaan kirjoittaa $$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$, mikä näyttää seuraavalta:
+**Poisson-jakauma** voidaan kirjoittaa "$$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$", mikä näyttää seuraavalta:
 $$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$  
 
 
