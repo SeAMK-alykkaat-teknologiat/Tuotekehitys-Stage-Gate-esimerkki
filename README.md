@@ -2,9 +2,15 @@
 (HUOM! Tämä on esimerkki GitHubin testausta varten ja tarkoitus herättää ajatuksia siitä mitä GitHubissa julkaistava materiaali tulisi sisältää. Korjausehdotuksia ja kehitysajatuksia toivotaan)
 
 ![](images/testi-logo.png)
+# Julkaisun historiatiedot
+Merkittävät muutokset julkaisuun.
+|pvm|Nimi|Tekijä|
+|---|---|---|
+|18.1.2023|Martti Hämäläinen|Lisätty julkaisun historiatiedot|
 
 # Sisällysluettelo
 - [Stage-Gate tuotekehityksen viitekehys](#stage-gate-tuotekehityksen-viitekehys)
+- [Julkaisun historiatiedot](#julkaisun-historiatiedot)
 - [Sisällysluettelo](#sisällysluettelo)
 - [Teknologiapilotti](#teknologiapilotti)
 - [Hanketiedot](#hanketiedot)
@@ -77,6 +83,8 @@ def add(a, b):
 ~~~
 
 # Vaatimukset (esim. koodin julkaisussa)
+Tähän edellytykset mitä tarvitaan, jotta ohjelma toimii.
+
 # Käyttö/käynnistys (esim. koodin julkaisussa)
 Tähän kuinka ohjelmaa käytetään/käynnistetään. Esim:
 
