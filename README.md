@@ -17,6 +17,7 @@ Merkittävät muutokset julkaisuun.
 - [Kuvaus](#kuvaus)
   - [Stage-Gate tuotekehityksen viitekehys](#stage-gate-tuotekehityksen-viitekehys-1)
   - [Stage-Gate viitekehyksen kuvaus](#stage-gate-viitekehyksen-kuvaus)
+  - [Matemaattisten kaavojen esittämäminen](#matemaattisten-kaavojen-esittämäminen)
 - [Tavoitteet (esim. hankejulkaisussa)](#tavoitteet-esim-hankejulkaisussa)
 - [Toimenpiteet (esim. hankejulkaisussa)](#toimenpiteet-esim-hankejulkaisussa)
 - [Asennus (esim. koodin julkaisussa)](#asennus-esim-koodin-julkaisussa)
@@ -61,8 +62,9 @@ Stage-Gate on uustuotekehityksessä yleisesti käytetty viitekehys, joka jakaa t
 Ohessa linkki yhteistyörobotiikan koneturvallisuusnäkökulmiin, joita VTT on tutkielmassaan esittänyt
 [Ohessa linkki](/content/VTT_Sgn_CobotSafety2022.pdf)
 
-Matemaattiset kaavat voidaan esittää, esim.
-**Poisson-jakauma** 
+## Matemaattisten kaavojen esittämäminen
+Matemaattiset kaavat voidaan esittää $ ja $$-merkeillä erotellulla LaTeX-syntaksilla, esim.
+**Poisson-jakauma** voidaan kirjoittaa $$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$, mikä näyttää seuraavalta:
 $$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$  
 
 
