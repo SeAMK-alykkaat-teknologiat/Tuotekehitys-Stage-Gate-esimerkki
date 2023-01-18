@@ -61,6 +61,10 @@ Stage-Gate on uustuotekehityksessä yleisesti käytetty viitekehys, joka jakaa t
 Ohessa linkki yhteistyörobotiikan koneturvallisuusnäkökulmiin, joita VTT on tutkielmassaan esittänyt
 [Ohessa linkki](/content/VTT_Sgn_CobotSafety2022.pdf)
 
+Matemaattiset kaavat voidaan esittää, esim.
+**Poisson-jakauma** 
+$$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$  
+
 
 # Tavoitteet (esim. hankejulkaisussa)
 Kuvaus tavoitteesta, jos julkaisussa on tarvetta määrittää tavoite
