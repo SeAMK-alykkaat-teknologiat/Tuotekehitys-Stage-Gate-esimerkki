@@ -8,6 +8,7 @@ Merkittävät muutokset julkaisuun.
 |pvm|Nimi|Tekijä|
 |---|---|---|
 |18.1.2023|Martti Hämäläinen|Lisätty matemaattisten kaavojen esittäminen|
+|19.1.2023|Marttti Hämäläinen|Lisätty kaavioiden esittäminen|
 
 # Sisällysluettelo
 Voit tehdä sisällysluettelon `Ctrl` + `Shift` + `P` -näppäimillä.
