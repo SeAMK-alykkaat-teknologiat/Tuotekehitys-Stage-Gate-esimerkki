@@ -32,7 +32,7 @@ Merkittävät muutokset julkaisuun.
 # Teknologiapilotti
 
 Linkki pilotin julkaisuun, jos sellainen löytyy.
-
+<!-- Tähän joku hyvä esimerkki, jos löytyy ... -->
 
 # Hanketiedot
 Esim.
@@ -71,9 +71,11 @@ $$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$
 
 # Tavoitteet (esim. hankejulkaisussa)
 Kuvaus tavoitteesta, jos julkaisussa on tarvetta määrittää tavoite
+<!-- Tähän esimerkki hankkeen tavoitteista -->
 
 # Toimenpiteet (esim. hankejulkaisussa)
 Julkaisun tavoitteeseen liittyvät toimenpiteet
+<!-- Tähän esimerkki toimenpiteistä-->
 
 # Asennus (esim. koodin julkaisussa)
 Käytä asennusohjeessa koodinupotuslaatikkoa selventämään komentoriville kirjoitettavia komentoja.
@@ -95,6 +97,7 @@ def add(a, b):
 
 # Vaatimukset (esim. koodin julkaisussa)
 Tähän edellytykset mitä tarvitaan, jotta ohjelma toimii.
+<!-- Tähän esimerkki vaatimuksista, esim. laitevaatimukset-->
 
 # Käyttö/käynnistys (esim. koodin julkaisussa)
 Tähän kuinka ohjelmaa käytetään/käynnistetään. Esim:
