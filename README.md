@@ -21,8 +21,6 @@ Voit tehdä sisällysluettelon `Ctrl` + `Shift` + `P` -näppäimillä.
   - [Stage-Gate viitekehyksen kuvaus](#stage-gate-viitekehyksen-kuvaus)
   - [Matemaattisten kaavojen esittäminen](#matemaattisten-kaavojen-esittäminen)
   - [Kaavioiden esittäminen](#kaavioiden-esittäminen)
-- [Yksinkertainen vuokaavio](#yksinkertainen-vuokaavio)
-- [Luokkakaavio](#luokkakaavio)
 - [Tavoitteet (esim. hankejulkaisussa)](#tavoitteet-esim-hankejulkaisussa)
 - [Toimenpiteet (esim. hankejulkaisussa)](#toimenpiteet-esim-hankejulkaisussa)
 - [Asennus (esim. koodin julkaisussa)](#asennus-esim-koodin-julkaisussa)
@@ -77,7 +75,9 @@ Matemaattiset kaavat voidaan esittää $ ja $$-merkeillä erotellulla LaTeX-synt
 $$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$  
 
 ## Kaavioiden esittäminen
-# Yksinkertainen vuokaavio
+Kaavioita voi kirjoittaa suoraan Markdown-dokumenttiin Mermaid-skriptikielellä.
+
+Yksinkertainen vuokaavio
 ```mermaid
 graph TD;
     A-->B;
@@ -85,7 +85,7 @@ graph TD;
     B-->D;
     C-->D;
 ```
-# Luokkakaavio
+Luokkakaavio
 ```mermaid
 classDiagram
 Class01 <|-- AveryLongClass : Cool
