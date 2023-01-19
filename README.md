@@ -21,6 +21,8 @@ Voit tehdä sisällysluettelon `Ctrl` + `Shift` + `P` -näppäimillä.
   - [Stage-Gate viitekehyksen kuvaus](#stage-gate-viitekehyksen-kuvaus)
   - [Matemaattisten kaavojen esittäminen](#matemaattisten-kaavojen-esittäminen)
   - [Kaavioiden esittäminen](#kaavioiden-esittäminen)
+- [Yksinkertainen vuokaavio](#yksinkertainen-vuokaavio)
+- [Luokkakaavio](#luokkakaavio)
 - [Tavoitteet (esim. hankejulkaisussa)](#tavoitteet-esim-hankejulkaisussa)
 - [Toimenpiteet (esim. hankejulkaisussa)](#toimenpiteet-esim-hankejulkaisussa)
 - [Asennus (esim. koodin julkaisussa)](#asennus-esim-koodin-julkaisussa)
@@ -75,7 +77,7 @@ Matemaattiset kaavat voidaan esittää $ ja $$-merkeillä erotellulla LaTeX-synt
 $$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$  
 
 ## Kaavioiden esittäminen
-
+# Yksinkertainen vuokaavio
 ```mermaid
 graph TD;
     A-->B;
@@ -83,6 +85,24 @@ graph TD;
     B-->D;
     C-->D;
 ```
+# Luokkakaavio
+```mermaid
+classDiagram
+Class01 <|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --> C2 : Where am i?
+Class09 --* C3
+Class09 --|> Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 <--> C2: Cool label
+```
+
 
 # Tavoitteet (esim. hankejulkaisussa)
 Kuvaus tavoitteesta, jos julkaisussa on tarvetta määrittää tavoite.
