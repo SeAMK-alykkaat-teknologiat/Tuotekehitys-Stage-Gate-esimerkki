@@ -77,16 +77,17 @@ Julkaisun tavoitteeseen liittyvät toimenpiteet
 # Asennus (esim. koodin julkaisussa)
 Käytä asennusohjeessa koodinupotuslaatikkoa selventämään komentoriville kirjoitettavia komentoja.
 Esim:
-~~~
-npx create-react-app my-app
-~~~
 
-Koodin julkaisussa kirjoita ohjelmointikielen nimi (esim. ~~ ~~python), jolloin saat värit selventämään koodia.
-~~~python
+```
+npx create-react-app my-app
+```
+
+Koodin julkaisussa kirjoita ohjelmointikielen nimi (esim. ```python), jolloin saat värit selventämään koodia.
+```python
 def add(a, b):
     # This function returns the sum of given numbers
     return a + b
-~~~
+```
 
 # Vaatimukset (esim. koodin julkaisussa)
 Tähän edellytykset mitä tarvitaan, jotta ohjelma toimii.
@@ -95,13 +96,13 @@ Tähän edellytykset mitä tarvitaan, jotta ohjelma toimii.
 Tähän kuinka ohjelmaa käytetään/käynnistetään. Esim:
 
 Käynnistä ohjelma project-kansiossa
-~~~~
+```
 npm start  
-~~~~
+```
 ja avaa selaimessa
-~~~~
+```
 http://localhost:3000
-~~~~
+```
 
 Huom! Koodiesimerkit React-tutorialista. [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
