@@ -10,6 +10,7 @@ Merkittävät muutokset julkaisuun.
 |18.1.2023|Martti Hämäläinen|Lisätty matemaattisten kaavojen esittäminen|
 
 # Sisällysluettelo
+Voit tehdä sisällysluettelon `Ctrl` + `Shift` + `P` -näppäimillä.
 - [Stage-Gate tuotekehityksen viitekehys](#stage-gate-tuotekehityksen-viitekehys)
 - [Julkaisun historiatiedot](#julkaisun-historiatiedot)
 - [Sisällysluettelo](#sisällysluettelo)
