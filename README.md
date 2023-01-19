@@ -20,6 +20,7 @@ Voit tehdä sisällysluettelon `Ctrl` + `Shift` + `P` -näppäimillä.
   - [Stage-Gate tuotekehityksen viitekehys](#stage-gate-tuotekehityksen-viitekehys-1)
   - [Stage-Gate viitekehyksen kuvaus](#stage-gate-viitekehyksen-kuvaus)
   - [Matemaattisten kaavojen esittäminen](#matemaattisten-kaavojen-esittäminen)
+  - [Kaavioiden esittäminen](#kaavioiden-esittäminen)
 - [Tavoitteet (esim. hankejulkaisussa)](#tavoitteet-esim-hankejulkaisussa)
 - [Toimenpiteet (esim. hankejulkaisussa)](#toimenpiteet-esim-hankejulkaisussa)
 - [Asennus (esim. koodin julkaisussa)](#asennus-esim-koodin-julkaisussa)
@@ -73,6 +74,15 @@ Matemaattiset kaavat voidaan esittää $ ja $$-merkeillä erotellulla LaTeX-synt
 **Poisson-jakauma** voidaan kirjoittaa "$$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$", mikä näyttää seuraavalta:
 $$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$  
 
+## Kaavioiden esittäminen
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 # Tavoitteet (esim. hankejulkaisussa)
 Kuvaus tavoitteesta, jos julkaisussa on tarvetta määrittää tavoite.
