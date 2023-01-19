@@ -78,11 +78,14 @@ Julkaisun tavoitteeseen liittyvät toimenpiteet
 Käytä asennusohjeessa koodinupotuslaatikkoa selventämään komentoriville kirjoitettavia komentoja.
 Esim:
 
-```
+```bash
 npx create-react-app my-app
 ```
 
 Koodin julkaisussa kirjoita ohjelmointikielen nimi (esim. ```python), jolloin saat värit selventämään koodia.
+
+- Funktio `add` ottaa parametrit `a` ja `b` ja palauttaa niiden summan.
+  
 ```python
 def add(a, b):
     # This function returns the sum of given numbers
@@ -96,7 +99,7 @@ Tähän edellytykset mitä tarvitaan, jotta ohjelma toimii.
 Tähän kuinka ohjelmaa käytetään/käynnistetään. Esim:
 
 Käynnistä ohjelma project-kansiossa
-```
+```bash
 npm start  
 ```
 ja avaa selaimessa
