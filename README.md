@@ -34,6 +34,7 @@ Merkittävät muutokset julkaisuun.
 Linkki pilotin julkaisuun, jos sellainen löytyy.
 <!-- Tähän joku hyvä esimerkki, jos löytyy ... -->
 
+
 # Hanketiedot
 Alla esimerkki hanketietojen esittämisestä.
 
@@ -45,6 +46,7 @@ Stage-Gate esimerkkisivusto on julkaistu Kasvua tuotekehityksellä Etelä-Pohjan
 
 Lisätietoa hankkeesta:
 [Kasvua tuotekehityksellä Etelä-Pohjanmaan valmistavan teollisuuden pk-yrityksissä -hankkeen nettisivut](https://projektit.seamk.fi/alykkaat-teknologiat/kasvua-tuotekehityksella-valmistavan-teollisuuden-pk-yrityksissa/)
+
 
 # Kuvaus
 
@@ -75,9 +77,11 @@ $$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$
 Kuvaus tavoitteesta, jos julkaisussa on tarvetta määrittää tavoite.
 <!-- Tähän esimerkki hankkeen tavoitteista -->
 
+
 # Toimenpiteet (esim. hankejulkaisussa)
 Julkaisun tavoitteeseen liittyvät toimenpiteet.
 <!-- Tähän esimerkki toimenpiteistä-->
+
 
 # Asennus (esim. koodin julkaisussa)
 Käytä asennusohjeessa koodinupotuslaatikkoa selventämään komentoriville kirjoitettavia komentoja. Alla esimerkki koodia sisältävän tekstin kirjoittamisesta.
@@ -101,6 +105,7 @@ def add(a, b):
 Tähän edellytykset mitä tarvitaan, jotta ohjelma toimii.
 <!-- Tähän esimerkki vaatimuksista, esim. laitevaatimukset-->
 
+
 # Käyttö/käynnistys (esim. koodin julkaisussa)
 Tähän kuinka ohjelmaa käytetään/käynnistetään. Esimerkiksi alla olevalla tavalla.
 
@@ -115,6 +120,7 @@ http://localhost:3000
 
 Huom! Koodiesimerkit React-tutorialista. [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
+
 # Tulokset (esim. hankejulkaisussa)
 Alla esimerkki hankkeen tuloksien kirjoittamisesta.
 
@@ -123,13 +129,15 @@ Hankkeen tuloksena syntyy:
 - Jatkuvan oppimisen alusta oppimateriaaleineen
 - Tapauskuvauksia alueen valmistavan teollisuuden pk-yrityksistä
 - Koko ekosysteemin uusi tapa toimia ja jakaa osaamistaan
-  
+
+
 # Lisenssi
 Dokumentit lisensoitu:
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Ohjelmakoodit lisensoitu:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 # Tekijät
 - Martti Hämäläinen
