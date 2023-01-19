@@ -1,11 +1,11 @@
 # Stage-Gate tuotekehityksen viitekehys 
 
-Tämä README.md (ja repositorio) on tehty esimerkiksi GitHubin testausta varten ja tällä on tarkoitus herättää ajatuksia siitä mitä GitHubissa julkaistava materiaali tulisi sisältää. Korjausehdotuksia ja kehitysajatuksia toivotaan ja niitä voi laittaa esimerkisi sähköpostilla osoitteeseen martti.hamalainen@seamk.fi.
+Tämä README.md (ja repositorio) on tehty GitHubin testausta varten ja tällä on tarkoitus herättää ajatuksia siitä mitä GitHubissa julkaistava materiaali tulisi sisältää. Korjausehdotuksia ja kehitysajatuksia toivotaan ja niitä voi laittaa esimerkisi sähköpostilla osoitteeseen martti.hamalainen@seamk.fi.
 
 ![](images/testi-logo.png)
 # Julkaisun historiatiedot
 Merkittävät muutokset julkaisuun.
-|pvm|Nimi|Tekijä|
+|Pvm|Nimi|Tehty muutos|
 |---|---|---|
 |18.1.2023|Martti Hämäläinen|Lisätty matemaattisten kaavojen esittäminen|
 |19.1.2023|Marttti Hämäläinen|Lisätty kaavioiden esittäminen|
