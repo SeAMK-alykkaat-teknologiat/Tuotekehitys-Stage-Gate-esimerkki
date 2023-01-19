@@ -1,4 +1,5 @@
 # Stage-Gate tuotekehityksen viitekehys 
+
 (HUOM! Tämä on esimerkki GitHubin testausta varten ja tarkoitus herättää ajatuksia siitä mitä GitHubissa julkaistava materiaali tulisi sisältää. Korjausehdotuksia ja kehitysajatuksia toivotaan)
 
 ![](images/testi-logo.png)
