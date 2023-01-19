@@ -1,6 +1,6 @@
 # Stage-Gate tuotekehityksen viitekehys 
 
-(HUOM! Tämä on esimerkki GitHubin testausta varten ja tarkoitus herättää ajatuksia siitä mitä GitHubissa julkaistava materiaali tulisi sisältää. Korjausehdotuksia ja kehitysajatuksia toivotaan)
+Tämä README.md (ja repositorio) on tehty esimerkiksi GitHubin testausta varten ja tällä on tarkoitus herättää ajatuksia siitä mitä GitHubissa julkaistava materiaali tulisi sisältää. Korjausehdotuksia ja kehitysajatuksia toivotaan ja niitä voi laittaa esimerkisi sähköpostilla osoitteeseen martti.hamalainen@seamk.fi.
 
 ![](images/testi-logo.png)
 # Julkaisun historiatiedot
@@ -35,7 +35,8 @@ Linkki pilotin julkaisuun, jos sellainen löytyy.
 <!-- Tähän joku hyvä esimerkki, jos löytyy ... -->
 
 # Hanketiedot
-Esim.
+Alla esimerkki hanketietojen esittämisestä.
+
 Stage-Gate esimerkkisivusto on julkaistu Kasvua tuotekehityksellä Etelä-Pohjanmaan valmistavan teollisuuden pk-yrityksissä -hankkeessa.
 
 - Hankkeen nimi: Kasvua tuotekehityksellä Etelä-Pohjanmaan valmistavan teollisuuden pk-yrityksissä
@@ -51,7 +52,7 @@ Lisätietoa hankkeesta:
 Esim.
 ![](images/stage-gate-process-testi.png)
 
-Stage-Gate on uustuotekehityksessä yleisesti käytetty viitekehys, joka jakaa tuotekehitysprosessin vaiheisiin ja portteihin. Porttien tehtävä on varmistaa, että määritellyt tehtävät ovat edellisen vaiheen aikana tehty. Tämän lisäksi portit toimivat myös välietappeina joissa arvioidaan onko projektia syytä jatkaa eteenpäin. 
+Stage-Gate on uustuotekehityksessä yleisesti käytetty viitekehys, joka jakaa tuotekehitysprosessin vaiheisiin ja portteihin. Porttien tehtävä on varmistaa, että määritellyt tehtävät ovat edellisen vaiheen aikana tehty. Tämän lisäksi portit toimivat myös välietappeina, joissa arvioidaan onko projektia syytä jatkaa eteenpäin. 
 
 ## Stage-Gate viitekehyksen kuvaus
 
@@ -64,22 +65,23 @@ Ohessa linkki yhteistyörobotiikan koneturvallisuusnäkökulmiin, joita VTT on t
 [Ohessa linkki](/content/VTT_Sgn_CobotSafety2022.pdf)
 
 ## Matemaattisten kaavojen esittäminen
-Matemaattiset kaavat voidaan esittää $ ja $$-merkeillä erotellulla LaTeX-syntaksilla, esim.
+Matemaattiset kaavat voidaan esittää $ ja $$-merkeillä erotellulla LaTeX-syntaksilla, esimerkiksi alla olevalla tavalla.
+
 **Poisson-jakauma** voidaan kirjoittaa "$$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$", mikä näyttää seuraavalta:
 $$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$  
 
 
 # Tavoitteet (esim. hankejulkaisussa)
-Kuvaus tavoitteesta, jos julkaisussa on tarvetta määrittää tavoite
+Kuvaus tavoitteesta, jos julkaisussa on tarvetta määrittää tavoite.
 <!-- Tähän esimerkki hankkeen tavoitteista -->
 
 # Toimenpiteet (esim. hankejulkaisussa)
-Julkaisun tavoitteeseen liittyvät toimenpiteet
+Julkaisun tavoitteeseen liittyvät toimenpiteet.
 <!-- Tähän esimerkki toimenpiteistä-->
 
 # Asennus (esim. koodin julkaisussa)
-Käytä asennusohjeessa koodinupotuslaatikkoa selventämään komentoriville kirjoitettavia komentoja.
-Esim:
+Käytä asennusohjeessa koodinupotuslaatikkoa selventämään komentoriville kirjoitettavia komentoja. Alla esimerkki koodia sisältävän tekstin kirjoittamisesta.
+
 
 ```bash
 npx create-react-app my-app
@@ -100,7 +102,7 @@ Tähän edellytykset mitä tarvitaan, jotta ohjelma toimii.
 <!-- Tähän esimerkki vaatimuksista, esim. laitevaatimukset-->
 
 # Käyttö/käynnistys (esim. koodin julkaisussa)
-Tähän kuinka ohjelmaa käytetään/käynnistetään. Esim:
+Tähän kuinka ohjelmaa käytetään/käynnistetään. Esimerkiksi alla olevalla tavalla.
 
 Käynnistä ohjelma project-kansiossa
 ```bash
@@ -114,7 +116,8 @@ http://localhost:3000
 Huom! Koodiesimerkit React-tutorialista. [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
 # Tulokset (esim. hankejulkaisussa)
-Esim:
+Alla esimerkki hankkeen tuloksien kirjoittamisesta.
+
 Hankkeen tuloksena syntyy:
 - Alueen valmistavan teollisuuden pk-yrityksen henkilöstölle soveltuva tuotekehityksen malli
 - Jatkuvan oppimisen alusta oppimateriaaleineen
