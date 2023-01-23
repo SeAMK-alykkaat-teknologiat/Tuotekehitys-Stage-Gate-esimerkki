@@ -8,7 +8,7 @@ Merkittävät muutokset julkaisuun.
 |Pvm|Nimi|Tehty muutos|
 |---|---|---|
 |18.1.2023|Martti Hämäläinen|Lisätty matemaattisten kaavojen esittäminen|
-|19.1.2023|Marttti Hämäläinen|Lisätty kaavioiden esittäminen|
+|19.1.2023|Martti Hämäläinen|Lisätty kaavioiden esittäminen|
 
 # Sisällysluettelo
 Voit tehdä sisällysluettelon `Ctrl` + `Shift` + `P` -näppäimillä.
@@ -63,7 +63,7 @@ Stage-Gate on uustuotekehityksessä yleisesti käytetty viitekehys, joka jakaa t
 
 |Nimi|Linkki|
 |---|---|
-| Stage-gate tuotekehityksen viitekehys -pdf-formaatissa |[![Stage-Gate-viitekehys](images/PDF_32.png)](/content/stage-gate-tuotekehityksen-viitekehys.pdf) |
+| Stage-gate tuotekehityksen viitekehys |[![Stage-Gate-viitekehys](images/PDF_32.png)](/content/stage-gate-tuotekehityksen-viitekehys.pdf) [Stage-Gate-viitekehys pdf-muodossa](/content/stage-gate-tuotekehityksen-viitekehys.pdf)  |
 | Stage-gate tuotekehityksen viitekehys -Youtube-video |[![Stage-Gate-viitekehys](/images/stage-gate-malli-testi.PNG)](http://www.youtube.com/watch?v=UrYm6cSArHI)|
 
 Ohessa linkki yhteistyörobotiikan koneturvallisuusnäkökulmiin, joita VTT on tutkielmassaan esittänyt
