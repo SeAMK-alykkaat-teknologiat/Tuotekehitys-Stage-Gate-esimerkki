@@ -77,7 +77,7 @@ $$f(x) = \frac{ \mu^x}{x!}e^{-\mu} ,(x = 0, 1, ...)$$
 
 ## Kaavioiden esittäminen
 Kaavioita voi kirjoittaa suoraan Markdown-dokumenttiin Mermaid-skriptikielellä.
-[Esimerkkejä kaavioista](content/vuokaavio-esimerkkeja.md)
+[Esimerkkejä kaavioista](content/kaavio-esimerkkeja.md)
 
 
 # Tavoitteet (esim. hankejulkaisussa)
