@@ -1,3 +1,5 @@
+![SeAMK-logo](images/SeAMK_vaaka_fi_en_RGB_1200x486.jpg)
+
 # Stage-Gate tuotekehityksen viitekehys 
 
 Tämä README.md (ja repositorio) on tehty GitHubin testausta varten ja tällä on tarkoitus herättää ajatuksia siitä mitä GitHubissa julkaistava materiaali tulisi sisältää. Korjausehdotuksia ja kehitysajatuksia toivotaan ja niitä voi laittaa esimerkisi sähköpostilla osoitteeseen martti.hamalainen@seamk.fi.
