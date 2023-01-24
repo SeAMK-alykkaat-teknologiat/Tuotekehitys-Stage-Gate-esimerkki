@@ -37,7 +37,7 @@ Lisätietoa hankkeesta:
 # Kuvaus
 
 ## Stage-Gate tuotekehityksen viitekehys
-Esim.
+Esimerkkikuva:
 ![](images/stage-gate-process-testi.png)
 
 Stage-Gate on uustuotekehityksessä yleisesti käytetty viitekehys, joka jakaa tuotekehitysprosessin vaiheisiin ja portteihin. Porttien tehtävä on varmistaa, että määritellyt tehtävät ovat edellisen vaiheen aikana tehty. Tämän lisäksi portit toimivat myös välietappeina, joissa arvioidaan onko projektia syytä jatkaa eteenpäin. 
