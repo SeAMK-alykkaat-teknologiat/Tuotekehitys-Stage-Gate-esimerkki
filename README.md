@@ -1,4 +1,4 @@
-![SeAMK-logo](images/SeAMK_vaaka_fi_en_RGB_1200x486.jpg)
+![SeAMK-logo](/images/tuotekehitys-logo.PNG)
 
 # Stage-Gate tuotekehityksen viitekehys 
 
