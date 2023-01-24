@@ -14,25 +14,6 @@ Merkittävät muutokset julkaisuun.
 
 # Sisällysluettelo
 Voit tehdä sisällysluettelon `Ctrl` + `Shift` + `P` -näppäimillä.
-- [Stage-Gate tuotekehityksen viitekehys](#stage-gate-tuotekehityksen-viitekehys)
-- [Julkaisun historiatiedot](#julkaisun-historiatiedot)
-- [Sisällysluettelo](#sisällysluettelo)
-- [Teknologiapilotti](#teknologiapilotti)
-- [Hanketiedot](#hanketiedot)
-- [Kuvaus](#kuvaus)
-  - [Stage-Gate tuotekehityksen viitekehys](#stage-gate-tuotekehityksen-viitekehys-1)
-  - [Stage-Gate viitekehyksen kuvaus](#stage-gate-viitekehyksen-kuvaus)
-  - [Matemaattisten kaavojen esittäminen](#matemaattisten-kaavojen-esittäminen)
-  - [Kaavioiden esittäminen](#kaavioiden-esittäminen)
-- [Tavoitteet (esim. hankejulkaisussa)](#tavoitteet-esim-hankejulkaisussa)
-- [Toimenpiteet (esim. hankejulkaisussa)](#toimenpiteet-esim-hankejulkaisussa)
-- [Asennus (esim. koodin julkaisussa)](#asennus-esim-koodin-julkaisussa)
-- [Vaatimukset (esim. koodin julkaisussa)](#vaatimukset-esim-koodin-julkaisussa)
-- [Käyttö/käynnistys (esim. koodin julkaisussa)](#käyttökäynnistys-esim-koodin-julkaisussa)
-- [Tulokset (esim. hankejulkaisussa)](#tulokset-esim-hankejulkaisussa)
-- [Lisenssi](#lisenssi)
-- [Tekijät](#tekijät)
-
 
 # Teknologiapilotti
 
